@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I’m ZHANG, Chongjiu, currently a graduate student at the Institure of Economics of Education, Beijing Normal University, Beijing, China. I received my bachelor's degree from Southwestern University of Finance and Economics (SWUFE), Chengdu, China, 2020. My existing research applies quantitative methods, and examines (1) the causes and consequences of educational inequalities and (2) social demography in China, with a primary focus on male-skewed sex ratio imbalances. 
+I am ZHANG, Chongjiu, a graduate student at the Institure for Economics of Education, Beijing Normal University, Beijing, China. I received my bachelor's degree from Southwestern University of Finance and Economics (SWUFE), Chengdu, China, 2020. 
+
+My current research applies quantitative methods, and examines (1) the causes and consequences of educational inequalities and (2) social demography in post-reform China, with a primary focus on male-skewed sex ratio imbalances. 
 
 
 ### Research Interests
