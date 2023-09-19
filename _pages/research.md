@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Peer-reviewed journal articles:
-1. <span style="font-size:0.9em;">"Zheng, Lei, Xiang Qi and Chongjiu Zhang. 2023. [Can improvements in teacher quality reduce the cognitive gap between urban and rural students in China?](https://www.sciencedirect.com/science/article/abs/pii/S0738059323000573)" *International Journal of Educational Development*, 100, 102781.
+1. <span style="font-size:0.9em;">Zheng, Lei, Xiang Qi and Chongjiu Zhang. 2023. "[Can improvements in teacher quality reduce the cognitive gap between urban and rural students in China?](https://www.sciencedirect.com/science/article/abs/pii/S0738059323000573)" *International Journal of Educational Development*, 100, 102781.
 
 ### Works in progress:
 1. <span style="font-size:0.9em;">Zhang, Chongjiu. 2023. "Out of 'Male-land': Imbalanced sex ratios and migration."
