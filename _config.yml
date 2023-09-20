@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Zhang, Chongjiu"
-  avatar           : "profile.png"
+#  avatar           : "profile.png"
   bio              : "Graduate student, Beijing Normal University"
   location         : "Beijing, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "emisrogan@outlook.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Chongjiu-Zhang"
   uri              :
   bitbucket        :
   codepen          :
