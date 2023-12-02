@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can [find my CV here](http://zhangchongjiu.github.io/assets/CV_Zhang_Chongjiu_202310.pdf).
+You can [find my CV here](http://zhangchongjiu.github.io/assets/CV_Zhang_Chongjiu_202312.pdf).
