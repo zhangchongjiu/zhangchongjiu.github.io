@@ -12,7 +12,7 @@ author_profile: true
 1. <span style="font-size:0.9em;">**Zhang, Chongjiu**. 2023. "Out of 'Male-land': imbalanced sex ratios and migration."
    [[Slides](http://zhangchongjiu.github.io/assets/slides/Slides_Out_of_Male_land_230818.pdf)].
 1. <span style="font-size:0.9em;">Deng, Zhuorui and **Chongjiu Zhang**. 2023. "Reduction or reproduction: the impact of public investments on preschool educational inequality."
-1. <span style="font-size:0.9em;">**Zhang, Chongjiu**. 2023. "Sex ratio imbalance and trends on returns to schooling: evidence from China."
+1. <span style="font-size:0.9em;">**Zhang, Chongjiu**. 2023. "Sex ratio imbalance and trends on returns to education: evidence from China."
    [[Slides](http://zhangchongjiu.github.io/assets/slides/Slides_Return_education_231202.pdf)].
 1. <span style="font-size:0.9em;">Zheng, Lei and **Chongjiu Zhang**. 2022. "Educational inequality in a risk society: risk attitudes and parental educational investments​."
    [[Slides](http://zhangchongjiu.github.io/assets/slides/Slides_Risk_attitude_Educational_investments_221217.pdf)].
