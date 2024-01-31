@@ -24,4 +24,4 @@ author_profile: true
  - The "j" sounds like the "j" in "joke."
  - The "iu" sounds like the "o" in "joke."
 
-If you find "Chongjiu" difficult to pronounce, **you can always just call me "CJ."** :) No worries!
+If you find "Chongjiu" difficult to pronounce, **you can also call me "CJ."** :) No worries!
