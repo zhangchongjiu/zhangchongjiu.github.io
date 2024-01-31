@@ -13,11 +13,14 @@ author_profile: true
 
 ### Chongjiu:
 "Chongjiu" is my given name and consists of two syllables, "Chong" and "Jiu."
+
 "Chong" is pronounced like "ch-uh-ng" in English.
  - The "ch" sounds like the "ch" in "chair."
  - The "o" sounds like the "u" in "umbrella."
  - The "ng" sounds like the "ng" in "sing."
+
 "Jiu" is pronounced like "j-oh" in English.
  - The "j" sounds like the "j" in "joke."
  - The "iu" sounds like the "o" in "joke."
+
 If you find "Chongjiu" difficult to pronounce, **you can always just call me "CJ."** :) No worries!
