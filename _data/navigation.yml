@@ -18,7 +18,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - tile: "Pronouncing"
+  - title: "Pronouncing my name"
     url: /pronouncing-my-name/
     
 #  - title: "Guide"
