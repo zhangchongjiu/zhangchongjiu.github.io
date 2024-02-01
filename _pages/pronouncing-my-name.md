@@ -5,10 +5,9 @@ title: ""
 author_profile: true
 
 ---
-
 ### Zhang:
 "Zhang" is my surname and is pronounced like "J-ah-ng" in English.
- - The "zh" sounds like the "j" in "job."
+ - The "zh" sounds like the "j" in "just."
  - The "a" sounds like the "a" in "father."
  - The "ng" sounds like the "ng" in "sing."
 
@@ -20,8 +19,8 @@ author_profile: true
  - The "o" sounds like the "aw" in "saw."
  - The "ng" sounds like the "ng" in "sing."
 
-"Jiu" is pronounced like "j-oh" in English.
- - The "j" sounds like the "j" in "joke."
- - The "iu" sounds like the "o" in "joke."
+"Jiu" is pronounced like "i-oh" in English.
+ - The "j" sounds like the "j" in "just."
+ - The "iu" sounds like the "o" in "open."
 
 If you find "Chongjiu" difficult to pronounce, **you can also call me "CJ."** :) No worries!
