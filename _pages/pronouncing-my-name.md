@@ -23,4 +23,4 @@ author_profile: true
  - The "j" sounds like the "j" in "just."
  - The "iu" sounds like the "o" in "open."
 
-If you find "Chongjiu" difficult to pronounce, **you can also call me "CJ."** :) No worries!
+**If you find "Chongjiu" difficult to pronounce, _you can also call me "CJ."_** :) No worries!
