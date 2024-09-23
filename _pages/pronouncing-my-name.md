@@ -11,8 +11,8 @@ author_profile: true
  - The "a" sounds like the "a" in "father."
  - The "ng" sounds like the "ng" in "sing."
 
-### Chongjiu:
-"Chongjiu" is my given name and consists of two syllables, "Chong" and "Jiu."
+### Chong-Jiu:
+"Chong-Jiu" is my given name and consists of two syllables, "Chong" and "Jiu."
 
 "Chong" is pronounced like "Ch-aw-ng" in English.
  - The "ch" sounds like the "ch" in "chair."
@@ -23,4 +23,4 @@ author_profile: true
  - The "j" sounds like the "j" in "just."
  - The "iu" sounds like the "o" in "open."
 
-**If you find "Chongjiu" difficult to pronounce, _you can also call me "CJ."_** :) No worries!
+**If you find "Chong-Jiu" difficult to pronounce, _you can also call me "CJ."_** :) No worries!
