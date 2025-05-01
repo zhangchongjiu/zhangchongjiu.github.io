@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Zhang, Chong-Jiu (張重玖), a Ph.D. student in Sociology at the University of Wisconsin--Madison. I received my bachelor's degree from Southwestern University of Finance and Economics (SWUFE) in Chengdu, China, and my master's degree from Beijing Normal University in Beijing, China. 
+I am Zhang, Chong-Jiu (張重玖), a Ph.D. student in Sociology at the University of Wisconsin--Madison. I received my bachelor's from Southwestern University of Finance and Economics in Chengdu, China, and my master's from Beijing Normal University in Beijing, China. 
 
-Most of my previous research projects focus on (1) the causes and consequences of educational inequalities and (2) social demography in post-reform China, with a primary focus on male-skewed sex ratio imbalances. I mainly apply quantitative methods along with survey and census data.
+My research centers on inequality and social stratification, which I approach through multiple substantive domains including education, culture, and demographic change. Broadly, I study how inequalities are produced, reproduced, and rationalized--both through material structures and symbolic forms. Methodologically, I draw on quantitative, experimental, and computational approaches, combining survey, census, experiment, and textual data.
 
 
 ### Research Interests
-- Education
 - Inequality and social stratification
-- Social demography 
-- Marriage, and family
+- Culture and aesthetic taste
+- Education
+- Demographic change and family behavior
