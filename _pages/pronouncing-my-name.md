@@ -5,22 +5,18 @@ title: ""
 author_profile: true
 
 ---
-### Zhang:
-"Zhang" is my surname and is pronounced like "J-ah-ng" in English.
- - The "zh" sounds like the "j" in "just."
- - The "a" sounds like the "a" in "father."
- - The "ng" sounds like the "ng" in "sing."
 
-### Chong-Jiu:
-"Chong-Jiu" is my given name and consists of two syllables, "Chong" and "Jiu."
+My full name is **Zhang Chong-Jiu**.
 
-"Chong" is pronounced like "Ch-aw-ng" in English.
- - The "ch" sounds like the "ch" in "chair."
- - The "o" sounds like the "aw" in "saw."
- - The "ng" sounds like the "ng" in "sing."
+### Zhang
+My surname. Sounds like *"Jong"* — the "zh" is like the "j" in "just," and the "a" is like the "a" in "father."
 
-"Jiu" is pronounced like "J-oh" in English.
- - The "j" sounds like the "j" in "just."
- - The "iu" sounds like the "o" in "open."
+### Chong-Jiu
+My given name, with two syllables:
 
-**If you find "Chong-Jiu" difficult to pronounce, _you can also call me "CJ."_** :) No worries!
+- **Chong** sounds like *"Chawng"* — the "o" is like the "aw" in "saw."
+- **Jiu** sounds like *"Joe"* — the "j" is like the "j" in "just."
+
+So the full name sounds roughly like ***"Jong Chawng-Joe."***
+
+**Most people just call me C.J. -- please feel free to do the same!** 😊
